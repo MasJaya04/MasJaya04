@@ -133,12 +133,6 @@ Sistem pemesanan tiket kapal wisata berbasis web & mobile
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nurjaya-jaya\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Kontak
 
 * Email: [nurjayapux@gmail.com](mailto:your_email@gmail.com)
