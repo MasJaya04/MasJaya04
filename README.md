@@ -1,6 +1,6 @@
 # 👋 Halo, saya Nurjaya
 
-💻 Full Stack Developer | 🎓 Guru Informatika | 🔧 IT Support & Network Technician
+💻 Full Stack Developer | 🎓 Guru Informatika | 🔧 IT Support & Network Technician | 🌐 nurjaya.com
 
 ---
 
