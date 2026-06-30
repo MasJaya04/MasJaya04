@@ -1,6 +1,6 @@
 # 👋 Halo, saya Nurjaya
 
-💻 Full Stack Developer | 🎓 Guru Informatika | 🔧 IT Support & Network Technician | 🌐 nurjaya.com
+💻 Full Stack Developer | 🎓 Guru Informatika | 🔧 IT Support & Network Technician | 🌐 [nurjaya.com](https://nurjaya.com/)
 
 ---
 
@@ -142,5 +142,5 @@ Sistem pemesanan tiket kapal wisata berbasis web & mobile
 ## 📫 Kontak
 
 * Email: [nurjayapux@gmail.com](mailto:your_email@gmail.com)
-* LinkedIn: (tambahkan jika ada)
+* LinkedIn: [nurjaya](https://www.linkedin.com/in/nur-jaya-713682316/)
 
